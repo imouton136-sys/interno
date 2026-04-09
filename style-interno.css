@@ -6,3 +6,103 @@
 .couleur{
     background-color: #F4F0EC;
 }
+.btn-black{
+    background-color: black;
+    font-family: "Rubik", sans-serif;
+    color: white;
+    border-radius: 4px;
+    padding: 7px 20px;
+    text-decoration: none;
+}
+.section-hero{
+    background-image: url("asset/Banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.align-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.couleur-{
+    background-color: #292F36;
+}
+.div{
+    border-radius: 0px 0px 0px 200px;
+}
+.text-{
+    text-decoration: none;
+}
+.flex-end{
+    justify-content: flex-end;
+}
+.container{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mt10{
+    margin-top: 10px 
+}
+.mt32{
+    margin-top: 32px;
+}
+.margin-bottom{
+    margin-bottom: 10px;
+}
+.w-30{
+    width: 30%;
+}
+.couleur-white{
+    color: white;
+}
+.space-between{
+    justify-content: space-between;
+}
+.pt{
+    padding-top: 10px;
+}
+.ptb{
+    padding-bottom: 10px;
+}
+.section-hero{
+    background-image: url("asset/Banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.font-size{
+    font-size: 85px;
+}
+.padding-section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.div-{
+    border-radius: 20px;
+}
+.font-size-{
+    font-size: 50px;
+}
+.white{
+    background-color: white;
+    width: 30%;
+}
+.font-size--{
+    font-size: 50px;
+}
+.taille{
+    height: 700px;
+}
+.font-size---{
+    font-size: 22px;
+}
+.blac{
+    color: black;
+}
